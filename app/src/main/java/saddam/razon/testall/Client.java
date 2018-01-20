@@ -9,8 +9,10 @@ import retrofit2.http.Path;
 import retrofit2.http.Url;
 
 /**
- * Created by HP on 20-Jan-18.
+ * Created by Razon 21 Jan 2018
  */
+
+@Author
 public interface Client {
 
     @GET

@@ -1,9 +1,10 @@
 package saddam.razon.testall;
 
 /**
- * Created by HP on 20-Jan-18.
+ * Created by Razon 21 Jan 2018
  */
 
+@Author
 public class apis {
 
     public static final String API_KEY = "?api_key=f246d5e5105e9934d3cd4c4c181d618d";
